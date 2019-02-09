@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But those files
+!.gitignore
+!.profile
+!.tmux.conf
+!.ssh/config
